@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nft_minting/static/css/main.df87172c.css",
-    "main.js": "/nft_minting/static/js/main.5021c214.js",
+    "main.js": "/nft_minting/static/js/main.61dcc540.js",
     "static/js/758.97fa728b.chunk.js": "/nft_minting/static/js/758.97fa728b.chunk.js",
     "static/js/796.184b918c.chunk.js": "/nft_minting/static/js/796.184b918c.chunk.js",
     "static/media/img3.png": "/nft_minting/static/media/img3.855dfe13fbcce6610aa8.png",
@@ -213,12 +213,12 @@
     "static/media/J10.png": "/nft_minting/static/media/J10.b742484105ac121d4e28.png",
     "index.html": "/nft_minting/index.html",
     "main.df87172c.css.map": "/nft_minting/static/css/main.df87172c.css.map",
-    "main.5021c214.js.map": "/nft_minting/static/js/main.5021c214.js.map",
+    "main.61dcc540.js.map": "/nft_minting/static/js/main.61dcc540.js.map",
     "758.97fa728b.chunk.js.map": "/nft_minting/static/js/758.97fa728b.chunk.js.map",
     "796.184b918c.chunk.js.map": "/nft_minting/static/js/796.184b918c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df87172c.css",
-    "static/js/main.5021c214.js"
+    "static/js/main.61dcc540.js"
   ]
 }
